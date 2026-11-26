@@ -182,7 +182,7 @@ CampusRide should not begin with every possible feature. Instead, the first vers
 
 Features for the first release
 
-Student registration.
+### Student registration.
 
 A list of designated checkpoints.
 
@@ -214,7 +214,7 @@ Extensive live tracking.
 
 Expansion to every transport category on campus.
 
-Recommended pilot
+### Recommended pilot
 
 Start with:
 
