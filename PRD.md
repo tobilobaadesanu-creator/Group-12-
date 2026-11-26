@@ -33,7 +33,7 @@ Our solution is a simple mobile/web scheduling app that replaces random roadside
 
 HOW IT WORKS
  
-​1. RENDEZVOUS CHECKPOINT: Instead of waving down tricycles anywhere on the road, the campus uses fixed, well-known pickup points (e.g., Hostel Gate, Main Library, Science Complex, Main Gate).
-​2.TIME-SLOT BOOKING: A student opens the app, selects their pickup checkpoint, destination checkpoint, and departure time slot (e.g., 7:00 AM).
-​3.DIRECT DRIVER ASSIGNMENT: The system matches the student with a specific available tricycle driver scheduled to be at that exact rendezvous checkpoint at that time, displaying the driver's name, tricycle ID/plate number, and pickup time.
-​4. RELIABLE ARRIVAL: Both the student and the assigned driver meet at the checkpoint at the agreed time, removing the guesswork of waiting by the road and helping students get to classes on time.
+1. RENDEZVOUS CHECKPOINT: Instead of waving down tricycles anywhere on the road, the campus uses fixed, well-known pickup points (e.g., Hostel Gate, Main Library, Science Complex, Main Gate).
+2. TIME-SLOT BOOKING: A student opens the app, selects their pickup checkpoint, destination checkpoint, and departure time slot (e.g., 7:00 AM).
+3. DIRECT DRIVER ASSIGNMENT: The system matches the student with a specific available tricycle driver scheduled to be at that exact rendezvous checkpoint at that time, displaying the driver's name, tricycle ID/plate number, and pickup time.
+4. RELIABLE ARRIVAL: Both the student and the assigned driver meet at the checkpoint at the agreed time, removing the guesswork of waiting by the road and helping students get to classes on time.
